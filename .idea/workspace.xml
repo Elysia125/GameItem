@@ -9,9 +9,8 @@
       <change beforePath="$PROJECT_DIR$/../Game/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Game/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Game/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Game/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Game/src/main/java/org/example/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +95,7 @@
       <workItem from="1725250330527" duration="62000" />
       <workItem from="1725251927251" duration="21000" />
       <workItem from="1725255335727" duration="70000" />
-      <workItem from="1725255413622" duration="181000" />
+      <workItem from="1725255413622" duration="791000" />
     </task>
     <servers />
   </component>
